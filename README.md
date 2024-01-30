@@ -44,7 +44,9 @@ Deliverables:
 4. Codebase (HTML, CSS, JavaScript)
 
 Timeline:
+
 Start Date: 26 January 2024
+
 End Date: 2 February 2024
 
 Contact Information:
